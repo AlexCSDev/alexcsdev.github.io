@@ -1,1 +1,1 @@
-0.10.0|This is a major release with a lot of changes. Update is highly recommended.
+0.11.0|0.10.0.1 has been released, if you are already on this version please ignore this message
