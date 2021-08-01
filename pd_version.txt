@@ -1,1 +1,1 @@
-0.11.0|0.10.0.1 has been released, if you are already on this version please ignore this message
+0.10.0.2|Fixed an issue with some files re-downloading on every run. Refer to release notes for more information.
