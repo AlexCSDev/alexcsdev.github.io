@@ -1,1 +1,1 @@
-0.10.0.2|Fixed an issue with some files re-downloading on every run. Refer to release notes for more information.
+0.10.1.0|Implemented handling of google drive documents. Posts can now be downloaded into their own folders.
