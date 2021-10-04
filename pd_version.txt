@@ -1,1 +1,1 @@
-0.10.1.0|Implemented handling of google drive documents. Posts can now be downloaded into their own folders.
+0.10.1.1|Bug fixes
