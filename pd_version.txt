@@ -1,1 +1,1 @@
-0.10.1.1|Bug fixes
+0.10.1.2|Fixed error when trying to download creator without cover and/or avatar
