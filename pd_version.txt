@@ -1,1 +1,1 @@
-0.10.2.0|Fixed issues due to new anti-bot protection
+0.10.3.0|Browser mimicking improvements
