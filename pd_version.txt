@@ -1,1 +1,1 @@
-0.10.3.0|Browser mimicking improvements
+0.10.4.0|Further browser mimicking improvements
