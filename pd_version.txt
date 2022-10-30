@@ -1,1 +1,1 @@
-0.10.4.0|Further browser mimicking improvements
+0.10.5.0|Fix for url extraction issues
