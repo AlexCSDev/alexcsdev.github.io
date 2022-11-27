@@ -1,1 +1,1 @@
-0.10.5.0|Fix for url extraction issues
+0.10.6.0|Fix for media url issues
