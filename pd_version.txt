@@ -1,1 +1,1 @@
-24|Fixed download path issues for mega and google drive
+25|Fixed issues caused by datadome cookie not being returned by the server
