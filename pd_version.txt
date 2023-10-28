@@ -1,1 +1,1 @@
-26|Fixed campaign id cannot be less than 1 error and several other issues
+27|Fixed campaign id cannot be less than 1 error and several other issues
