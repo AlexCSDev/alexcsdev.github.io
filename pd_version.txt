@@ -1,1 +1,1 @@
-27|Fixed campaign id cannot be less than 1 error and several other issues
+28|Support for changes in patreon api, cloudflare fixes, chrome update, bugfixes and code maintenance.
