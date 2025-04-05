@@ -1,1 +1,1 @@
-28|Support for changes in patreon api, cloudflare fixes, chrome update, bugfixes and code maintenance.
+29|Fix for cookie validation issue, various workarounds for mega.nz plugin issues, patreon login handling improvements.
