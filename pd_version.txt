@@ -1,1 +1,1 @@
-29|Fix for cookie validation issue, various workarounds for mega.nz plugin issues, patreon login handling improvements.
+30|Fix for tcm, __cf_bm cookie errors, campaign id retrieval error fix, 
