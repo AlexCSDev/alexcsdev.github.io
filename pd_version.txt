@@ -1,1 +1,1 @@
-30|Fix for tcm andd __cf_bm cookie errors, campaign id retrieval error fix, update to .net 9, libraries/chrome update.
+31|Fix for patreon api issues.
