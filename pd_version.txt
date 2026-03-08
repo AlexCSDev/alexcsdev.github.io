@@ -1,1 +1,1 @@
-31|Fix for patreon api issues.
+32|Fix for patreon api issues, fix post descriptions not being downloaded. (read release notes!)
